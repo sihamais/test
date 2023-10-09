@@ -1,0 +1,883 @@
+
+
+FIDELCLY
+
+La fidélité à portée de main
+
+
+Manuel d’organisation
+
+
+Sommaire
+
+
+La fidélité à portée de main	2
+Manuel d’organisation	2
+Sommaire	3
+Introduction	5
+Notre projet FidelCly	7
+I. Notre idée	7
+A. Notre équipe	7
+1. Les membres	7
+B. Notre projet	9
+1. L’idéation	9
+2. Le produit & service	10
+3. Qui est notre cible?	11
+4. Pour quelles raisons?	12
+C. Nos valeurs	13
+II. Le projet et son environnement	14
+A. Le contexte	14
+1. Le contexte externe	14
+2. Le diagramme d’impact	16
+3. SWOT	17
+B. La mission, notre vision	18
+1. L’inventaire	18
+2. Les idées qui englobent le projet	18
+3. Nos missions	19
+4. Notre vision	20
+C. Le business model	21
+Le marché de FidelCly et son potentiel	22
+III. L’étude de marché	22
+A. L’offre	22
+B. Les clients	23
+1. La cible	23
+2. La segmentation des clients	24
+C. Les concurrents	26
+IV. Le positionnement et le chiffre d’affaires	29
+A. Le positionnement	29
+B. Le chiffre d’affaires et achat	30
+1. Le calcul du chiffre d’affaires	30
+2. Les achats initiaux	32
+3. Le dimensionnement du projet	33
+Plan d’action	34
+V. Stratégies opérationnelles et process	34
+A. Production	34
+1. Quel type de projet?	34
+2. Les fonctionnalités principales	35
+3. Quel défi technique	39
+4. Le prototype	39
+B. Calendrier du projet sur 3 ans	40
+1. Roadmap externe	40
+2. Roadmap interne	40
+VI. Organisation de l’équipe	41
+A. Notre équipe	41
+1. Les profils nécessaires au projet	41
+2. Les compétences nécessaires au projet	45
+B. Les processus de management	46
+1. Les processus de management	46
+2. Le suivi de projet	46
+3. Les méthodes de priorisation	47
+4. La gestion des incidents	50
+Bilan	51
+
+
+
+Introduction
+
+FidelCly est une révolution dans l'univers de la fidélité client. Imaginez un monde où le chaos des cartes de fidélité physiques est éliminé, où les commerçants de proximité peuvent comprendre en un clin d'œil le comportement d'achat de leurs clients, et où les utilisateurs peuvent facilement maximiser leurs avantages de fidélité. Bienvenue dans l'ère de FidelCly.
+
+En 2021, en France, 60% des femmes possédaient plus de dix cartes de fidélité, mais seulement 8% des clients les utilisaient toutes. FidelCly est la solution à ce problème. Nous avons développé une plateforme numérique qui rassemble toutes les cartes de fidélité dans une seule application facile à utiliser, ce qui garantit que les programmes de fidélité sont utilisés à leur plein potentiel.
+
+Mais FidelCly ne se limite pas à digitaliser les cartes de fidélité. Pour nos commerçants, ou "fiders", nous simplifions et rationalisons le processus de fidélisation. Les clients accumulent des tampons à chaque achat par un simple scan de leur QR code unique. Cela signifie moins de paperasse pour les "fiders", et une expérience d'achat plus fluide pour les clients.
+
+La véritable valeur ajoutée de FidelCly réside dans sa capacité à recueillir des données précieuses sur la consommation. Les "fiders" reçoivent des informations sur les habitudes de consommation de leurs clients, ce qui leur permet de personnaliser leurs campagnes marketing et d'augmenter l'engagement client. Et tout cela est présenté dans une interface web facile à utiliser.
+
+FidelCly permet également aux "fiders" d'atteindre leurs clients avec des e-mailings pour des promotions, des relances ou des anniversaires, leur offrant une autre voie pour interagir et fidéliser. Et grâce à notre carte interactive intégrée à l'application, les "fiders" bénéficient d'une visibilité accrue.
+
+Pour les utilisateurs, FidelCly est un portefeuille digital pour toutes leurs cartes de fidélité, une application mobile qui offre la commodité et la simplicité. L'application comprend un scanner pour ajouter rapidement de nouveaux "fiders" et propose la géolocalisation en temps réel, permettant aux utilisateurs de découvrir facilement les enseignes partenaires à proximité.
+
+FidelCly redéfinit le paysage de la fidélité. Avec sa plateforme digitale intuitive, son approche basée sur les données et son engagement envers une expérience utilisateur améliorée, FidelCly est une solution de fidélisation unique en son genre, prête à conquérir le marché. Nous invitons les investisseurs visionnaires à se joindre à nous dans ce voyage passionnant pour réinventer la fidélité.
+
+
+Notre projet FidelCly
+Notre idée
+
+Notre équipe
+
+Les membres
+
+
+Jérémy LAO (lao_j)
+Product Owner & Développeur Front-End
+
+Jérémy possède un parcours atypique, issu d’une formation commerciale et diplômé d’un master en marketing & management, il décide après 5 ans de vie active en tant que cadre dans la grande distribution de tout lâcher pour se consacrer au développement web. 
+Porteur du projet, Jérémy a une forte sensibilité dans le commerce et notamment la fidélisation de la clientèle. Anciennement responsable d’un supermarché, il possède différentes compétences comme la gestion du management d’une équipe, une aisance dans la relation client et une connaissance dans des actions marketing futures à mener. Des compétences et des qualités qui seront fortement utiles au projet. Il s’occupera également de la partie front-end des applications. 
+Ce projet c’est son bébé, il y met du coeur afin que le projet soit mener à bien et pour rendre la vie plus facile aux utilisateurs et notamment sa femme.
+
+
+
+
+
+
+Siham AISSAOUI (aissao_s)
+Scrum Master & Développeur Full Stack
+
+Siham possède une licence en informatique à l’université de Strasbourg et a intégré l’ETNA à partir de septembre 2021. Elle est actuellement développeuse en Cloud Cybersécurité au sein de Scalingo.
+Au sein de notre projet, elle possède la lourde responsabilité d’instaurer la méthode agile en plus d’être développeuse fullstack. 
+Pourquoi a-t-elle choisi de rejoindre notre projet? Siham est une utilisatrice de cartes de fidélité tampon, étant une grande consommatrice de baguette et notamment la tradition.
+“Le pain tradition c’est bon”.
+Elle se rend fréquemment chez sa boulangère en bas de chez elle qui en propose à sa clientèle afin de les fidéliser. 1 baguette offerte au bout des 10 achetées. Toutefois elle a tendance à l’oublier ou à l’égarer, c’est dommage quand on adore la baguette.
+
+Jérémie CYRILLE (cyrill_j)
+Développeur Fullstack
+
+Jérémie notre cadet de l’équipe mais certainement le plus à la pointe de la technologie. Constamment en veille technologique, il possède une culture dans l’informatique impressionnante. Il a été diplômé en Computer Science au Canada et est actuellement consultant en Business Intelligence dans son entreprise. Comment vous dire que les bases de données c’est son quotidien.
+Vous l’aurez compris, au sein de notre organisation, il s’occupe de la data, des relations mais également de la partie application dashboard pour nos clients, autrement dit, un développeur fullstack.
+Il s’est senti concerné par notre projet car Jérémie a tendance à perdre ses cartes de fidélité, ce qui ne lui permet pas de bénéficier des offres et il en a ras-le-bol, “C’est mon rêve d’avoir toutes mes cartes dans une application” dit-il. 
+
+Andi MANIETA (maniet_a)
+Développeur Back-End
+
+Andi a effectué une licence mathématique et informatique à l’université de Strasbourg pendant 2 ans et s’est orienté ensuite vers un cursus plus technique. La pédagogie de l’ETNA l’intéresse et il obtient en 2021 le bachelor. Il est aujourd’hui développeur d’applications web et mobile spécialisé dans la partie back-end, une force que nous souhaitons mettre à contribution dans notre projet. L’intérêt pour Andi de travailler sur le projet FidelCly est de lui permettre de mieux suivre ses passages et les actualités chez ses commerçants favoris et de pouvoir en découvrir de nouveaux dans son quartier.
+
+Notre projet
+
+L’idéation
+
+L'étincelle qui a déclenché la création de FidelCly est venue d'une difficulté quotidienne rencontrée par un utilisateur typique - Tifaine, l'épouse de Jérémy. Tifaine est une accro du shopping et est une habituée des coffee shops. En tant que chasseuse de bonnes affaires, elle a accumulé une multitude de cartes de fidélité - des enseignes populaires comme Fnac, Carrefour, Camaïeu, la Grande Recrée, jusqu'aux commerces locaux tels que la pizzeria du coin, le magasin de bubble tea du 13ème arrondissement de Paris, le restaurant de pokebowl près de son travail, et même un coffee shop à Lyon, une ville qu'elle a visité une seule fois et n'a pas prévu de revisiter de sitôt.
+
+Une telle collection de cartes pourrait facilement transformer le portefeuille de Tifaine en un véritable trésor de cartes de fidélité. Bien sûr, certaines enseignes permettent de retrouver l'utilisateur par son nom, mais ce n'est pas le cas de tous. Souvent, cela signifie fouiller son portefeuille et ralentir la file d'attente à la caisse pour trouver la bonne carte.
+
+L'application mobile Fidme a permis à Tifaine de regrouper toutes ses cartes de fidélité des grandes enseignes, réduisant considérablement son portefeuille. Cependant, Fidme n'inclut que les grandes enseignes, laissant Tifaine avec le même dilemme pour ses cartes de fidélité des commerçants de proximité.
+
+En effet, les commerçants indépendants proposent également des cartes de fidélité pour attirer et encourager la consommation. Ces cartes sont souvent en carton, encombrantes et fragiles, prenant de plus en plus de place au fil du temps et qui se perdent facilement lorsqu'elles ne sont pas souvent utilisées. C'est de ce défi que notre projet a pris naissance. FidelCly a été conçue pour répondre à ce problème précis - comment gérer efficacement les cartes de fidélité des commerçants de proximité.
+
+Le produit & service
+
+FidelCly est né d'une nécessité, celle de simplifier la vie des utilisateurs de notre application comme Tifaine, et de rendre leur quotidien plus agréable.
+
+En 2021, selon l'INSEE, 77% de la population française âgée de 15 ans et plus possédaient un smartphone, dont 94% des personnes âgées de 15 à 29 ans. Cette omniprésence des smartphones est la toile de fond de notre solution. Nous proposons une application mobile qui sera toujours à portée de main de nos utilisateurs. Cette application permettra de rassembler toutes leurs cartes de fidélité dans un wallet digital grâce à un système de QR code, et offrira la possibilité de découvrir des commerçants partenaires via une carte interactive.
+
+Pour que FidelCly réussisse, nous avons besoin de commerçants prêts à devenir partenaires de notre solution. C'est pourquoi nous avons conçu un produit qui offre une gamme de fonctionnalités et services destinés à dynamiser la fréquentation des commerces et, par conséquent, augmenter leur chiffre d'affaires. Nous voulons fournir aux gérants une base de données qui regroupe tous leurs clients qui ont adhéré aux programmes de fidélité - une fonctionnalité qui était impossible à obtenir avec une simple carte de fidélité en papier.
+
+Depuis le tableau de bord du commerçant, des informations clés seront accessibles, comme le nom, le prénom, l'âge, le panier moyen, la fréquence d'achat, la date de dernière visite du client, etc. Ces données précieuses ouvriront la porte à des actions de communication ou de marketing ciblées, comme l'envoi de mailings spécifiques. Grâce à FidelCly, la fidélisation devient une véritable science.
+
+Qui est notre cible?
+
+FidelCly cible deux groupes principaux : les consommateurs et les commerçants de proximité.
+
+Du côté des consommateurs, notre cible principale est la population connectée, en particulier ceux qui possèdent un smartphone et sont à l'aise avec les technologies mobiles. En 2021, 77% de la population française âgée de 15 ans et plus possédaient un smartphone, ce chiffre montant à 94% pour la tranche d'âge 15-29 ans, selon l'INSEE. C'est un vaste marché à exploiter. En particulier, nous visons les personnes qui font souvent leurs achats auprès de commerçants locaux et qui sont susceptibles d'avoir plusieurs cartes de fidélité, comme Tifaine dans notre exemple précédent.
+
+Du côté des commerçants, nous ciblons principalement les petites et moyennes entreprises locales qui cherchent à améliorer leur fidélisation de la clientèle et à comprendre les habitudes de consommation de leurs clients. Cela pourrait inclure des magasins de détail, des restaurants, des coffee shops, des salons de beauté, et bien d'autres. La taille de ce marché est également significative. Selon l'INSEE, il y avait plus de 3,5 millions d'entreprises en France en 2020, dont une grande proportion étaient des PME.
+Pour quelles raisons?
+
+FidelCly a pour objectif primordial de stimuler et simplifier le processus de fidélisation client pour nos partenaires commerciaux. Le concept de fidélisation, qui est centré sur l'établissement et le maintien d'une relation solide entre un client et une marque, est au cœur de notre mission. Notre objectif est d'inciter les clients à répéter leurs achats régulièrement. Pour un commerçant, fidéliser un client a trois avantages principaux :
+
+Il coûte 3 à 6 fois moins cher de fidéliser un client existant que d'en conquérir un nouveau.
+Les clients fidèles dépensent généralement plus que les clients occasionnels.
+Un client fidèle satisfait est plus susceptible de recommander l'entreprise à son réseau et sur les réseaux sociaux.
+
+Notre solution s'appuie sur plusieurs leviers pour atteindre ces objectifs de fidélisation :
+
+Gestion efficace des informations clients pour offrir des promotions adaptées aux besoins individuels, basées sur les comportements d'achat.
+Un service clientèle réactif et proactif, offrant un excellent service après-vente et une communication efficace.
+Une expérience client exceptionnelle qui valorise le client par une approche personnalisée et garantit une transaction en douceur.
+Un programme de fidélité offrant des réductions, des gains et des avantages.
+
+Le secteur de la fidélisation est en plein essor. D'après MarketsandMarkets, le marché mondial de la fidélisation devrait passer de 1,9 milliard de dollars en 2020 à 4,5 milliards de dollars en 2025, soit un taux de croissance annuel de 18,5%.
+
+FidelCly permettra à nos clients d'accéder à leurs données clients et de visualiser des données analytiques pertinentes sur un tableau de bord, leur permettant ainsi de mener des actions commerciales personnalisées, essentielles à la fidélisation. Ces informations étaient auparavant inaccessibles avec les cartes de fidélité en papier.
+
+Notre deuxième objectif est de simplifier la vie des utilisateurs en regroupant toutes leurs cartes de fidélité en un seul endroit, tout en offrant aux commerçants un passage en caisse plus rapide. Avec FidelCly, fini les jours où les clients cherchaient désespérément une carte de fidélité égarée dans leur sac. Une transaction plus fluide se traduit par une augmentation de la productivité, une hausse du chiffre d'affaires et une meilleure satisfaction client.
+
+Enfin, FidelCly s'engage à aider les commerçants à réduire leur empreinte écologique. En moyenne, un Français consomme trois ramettes de papier par mois. L'industrie papetière, malgré des normes environnementales de plus en plus strictes, reste une source importante de pollution, nécessitant d'énormes quantités d'eau, d'énergie et de produits chimiques. En proposant une solution de fidélisation dématérialisée, nous aidons à réduire les impressions inutiles et à prévenir le gaspillage et la pollution associés aux cartes de fidélité en papier.
+
+Nos valeurs
+
+L'équipe de FidelCly a été soigneusement constituée en tenant compte des compétences individuelles de chaque membre. Notre processus de recrutement s'est concentré d'abord sur l'adhésion à la vision de notre projet. Nous avons cherché des personnes qui ressentaient un lien personnel avec notre mission, assurant ainsi une motivation durable tout au long du développement du projet, et potentiellement au-delà. Ensuite, nous avons évalué les compétences techniques de chaque candidat, en veillant à inclure des profils fullstack ainsi que des développeurs spécialisés dans le back-end et le DevOps pour le déploiement du projet. De plus, nous avons privilégié une personne familiarisée avec la méthodologie agile, pour assurer une conduite de projet efficace et productive.
+
+FidelCly est guidé par trois valeurs fondamentales : le respect, le partage et la rigueur.
+
+Le respect : Nous favorisons un environnement de respect mutuel au sein de notre équipe, où chaque membre est à l'écoute des autres et fait preuve d'empathie. Nous nous engageons également à respecter tous nos clients et utilisateurs, et à accueillir toutes leurs remarques.
+Le partage : Nous plaçons le partage et la communication au centre de notre organisation. Nous croyons en l'échange d'idées pour avancer ensemble de manière plus efficace.
+La rigueur : Nous aspirons à une rigueur et à une qualité constantes dans nos services, dans toutes les circonstances, afin de satisfaire au mieux nos clients.
+
+En termes d'impact mondial, FidelCly vise à transformer la façon dont les clients et les commerçants locaux interagissent et se connectent. Tout comme Google a pour mission d'organiser toutes les données du monde et de les rendre accessibles à tous de manière utile, FidelCly a pour mission de réunir tous les programmes de fidélité dans une plateforme digitale unique, rendant la gestion de la fidélité plus facile et plus efficace pour les commerçants et les clients du monde entier.
+
+Le projet et son environnement
+
+Le contexte
+
+Le contexte externe
+
+Les commerces de proximité font face à un environnement économique complexe marqué par l'inflation, une source d'inquiétude non négligeable. Les ménages français subissent une augmentation de leurs dépenses sans voir leur salaire augmenter en conséquence, ce qui limite leur capacité de consommation, en particulier pour les ménages les plus modestes. Selon l'INSEE, la consommation mensuelle des ménages français en produits alimentaires a atteint 16,45 milliards d'euros en mars 2022, soit une baisse de 6,9% par rapport à l'année précédente. Les crises récentes, y compris la pandémie de COVID-19 et le conflit entre l'Ukraine et la Russie, ont eu des impacts significatifs sur les rendements agricoles, entraînant une augmentation supplémentaire des prix pour les consommateurs.
+
+En 2023, une nouvelle diminution de la consommation pourrait venir s'ajouter à l'incertitude actuelle. Cette situation est exacerbée par des changements majeurs dans les habitudes de consommation : le boom du commerce électronique, tant pour les produits non alimentaires qu'alimentaires ; un intérêt croissant pour une consommation plus saine et une plus grande attention portée à la traçabilité ; le développement des enseignes spécialisées et du discount ; ainsi que des évolutions législatives, comme la mise à jour de la loi Egalim ou les restrictions concernant l'utilisation de plastiques et de prospectus publicitaires.
+
+Dans ce contexte, une solution comme FidelCly, qui facilite la fidélisation et encourage les clients à soutenir les commerces de proximité, peut jouer un rôle crucial pour aider ces commerces à naviguer dans ces eaux incertaines.
+Le diagramme d’impact
+
+
+
+
+SWOT
+
+
+Forces ➕
+
+
+Faiblesses ➖
+
+Un projet qui nous sensibilise et qui nous concerne.
+Une équipe composée de différents profils depuis le commencement du projet.
+Des profils aussi bien technique, que managérial et commercial qui se complètent.
+Une organisation de projet très structurée.
+Une solution qui regroupe en une application toutes les fonctionnalités des concurrents directs.
+Des fonctionnalités attendues par le grand public et qui répondent aux attentes des commerçants sondés.
+
+
+
+
+
+Une équipe jeune sans réelle expérience professionnelle.
+Yollty représente une concurrence directe forte et présente depuis plus de 6 ans qui a eu le temps de s’installer sur le marché.
+Un réseau professionnel encore trop restreint.
+Une faible capacité financière.
+Besoin d’un financement extérieur pour démarrer
+
+
+
+
+
+
+Opportunités 🌟
+
+
+Menaces 🔥
+
+Peu d'acteurs sur le marché, 2 concurrents directs sur le marché et 1 concurrent indirect.
+Selon LSA, 9 consommateurs sur 10 scrutent les promotions avant d’acheter.
+98% de la population française possèdent au moins une carte de fidélité et 60% des femmes possèdent plus de 10 cartes dans leur portefeuille.
+Une tendance écologique actuelle qui joue en notre faveur car notre idée principale est la dématérialisation des cartes de fidélité.
+Le commerce de proximité plébiscité par les français après la crise sanitaire (Click & collect).
+La recherche d’une relation privilégiée avec les commerçants de sa localité.
+
+
+
+
+
+Hausse des prix de 7,9% des produits de grande consommation selon l’institut IRI.
+L’Insee annonce une inflation de 12% sur l’alimentation à la fin de l’année.
+Une menace sanitaire toujours présente qui peut freiner l’activité des commerçants partenaires.
+Incertitudes quant au seuil de rentabilité.
+Environnement économique incertain.
+
+
+
+
+
+La mission, notre vision
+
+L’inventaire
+
+
+Verbe d’action
+(Quoi ?)
+Service / offre
+(Comment?)
+Persona
+(A qui ?)
+Caractère distinctif
+(Pourquoi?)
+Regrouper
+Wallet
+Utilisateurs
+Rapidité
+Dématérialiser
+Fidélisation
+Commerçants
+Gestion
+Mettre à disposition
+Base de données
+Commerçants
+Emailing
+Lister
+Map intéractive
+Utilisateurs
+Découverte
+Envoyer 
+Campagne de Communication
+Utilisateurs
+Chiffre d’affaires
+
+
+Les idées qui englobent le projet
+
+Thématique 1 : Faciliter la vie de notre prochain
+
+Créer une application mobile pour faciliter l’acte de fidélisation.
+Une application mobile qui regroupe toutes les cartes de fidélité papier que l’utilisateur possède initialement dans son portefeuille.
+Une application mobile rapide et fluide qui permet à l’utilisateur de gagner du temps en caisse lorsqu’il exécute l’acte de fidélisation.
+Une solution dématérialisée qui facilite et optimise la gestion du programme de fidélité.
+Une solution qui propose aux commerçants la possibilité d’envoyer des campagnes publicitaires de manière personnalisée et ciblée.
+
+
+
+
+Thématique 2 : Mieux connaître son interlocuteur
+
+Une application mobile qui permet à l’utilisateur de connaître d’autres enseignes autour de lui proposant un système de fidélisation.
+Une solution qui propose une base de données avec des informations pertinentes sur les clients de nos commerçants.
+Une solution qui propose un dashboard pour les commerçants mettant à disposition des données analytiques pour mieux comprendre sa clientèle.
+
+Thématique 3 : Découvrir ce qui nous entoure
+
+Une solution qui va permettre aux commerçants de gagner en visibilité auprès de nos utilisateurs.
+Une application mobile qui propose la possibilité d’éditer son profil commerçant ainsi que ses promotions afin d’attirer des nouveaux clients.
+Une application mobile avec une fonctionnalité sur la page Home mettant en avant les dernières actualités des commerçants que l’utilisateur aura en favoris. 
+
+Thématique 4 : Penser aux générations futures
+
+Une solution qui met en avant les commerces de proximité.
+Une solution écologique qui limite l’impact environnemental des clients.
+Une solution dématérialisée qui remplace le programme de fidélité papier pour les commerçants réduisant ainsi l’impression de papier (cartes, prospectus).
+
+Nos missions
+
+La mission de FidelCly s'articule autour de trois piliers principaux :
+Fournir une plateforme numérique unifiée aux utilisateurs pour enregistrer et gérer leurs cartes de fidélité papier de divers commerçants, facilitant ainsi leur accès et utilisation.
+
+Offrir aux utilisateurs un aperçu complet des enseignes partenaires qui proposent des programmes de fidélité, permettant ainsi d'augmenter leur pouvoir d'achat en profitant des avantages proposés.
+
+Proposer aux commerçants un tableau de bord analytique, facilitant une meilleure compréhension de leurs clients à travers l'analyse des habitudes et comportements de consommation.
+
+La mission de FidelCly est de renforcer la relation entre les commerçants et leurs clients en facilitant la gestion des programmes de fidélité. La société vise à transformer l'expérience de la fidélité en offrant une application unique permettant aux utilisateurs d'enregistrer et de gérer leurs cartes de fidélité, tout en découvrant d'autres enseignes offrant des programmes de fidélité. Parallèlement, FidelCly fournit aux commerçants des outils d'analyse de données pour mieux comprendre les comportements et les habitudes de consommation de leurs clients.
+
+Notre vision
+
+FidelCly envisage un futur où la fidélisation client est une expérience sans effort, intégralement digitale, qui booste l'épanouissement des commerces locaux tout en réduisant notre empreinte écologique. Nous œuvrons pour créer un monde où le commerce de proximité prospère et où chaque achat se transforme en une contribution active à la préservation de notre planète.
+Le business model
+
+⚠️ PROBLÈMES
+
+
+Selon une étude, en moyenne 8% des clients utilisent toutes leurs cartes de fidélité papier. 29% oublient de la présenter, 16% l’ont perdu ou oublié et d’autres sont pressés par le temps et n’ont pas envie de la chercher.
+Les riverains ne connaissent pas tous les commerces de proximité près de chez eux, encore moins ceux qui proposent un programme de fidélité.
+Les commerçants qui proposent une carte de fidélité papier ne connaissent pas leur clientèle.
+Les commerçants de proximité ne possèdent aucune donnée sur leurs clients et ne peuvent donc pas faire de campagnes de communication personnalisées.
+💡SOLUTIONS
+
+
+Une application mobile qui permet de répertorier toutes les cartes de fidélité que l’utilisateur aura enregistrées dans son wallet grâce à notre système de QR code.
+Une application qui liste tous les commerçants partenaires à notre solution dans une map interactive selon la position de l’utilisateur. 
+Une application qui met à disposition une base de données avec des informations sur les clients du point de vente.
+Une application qui analyse les données de vos clients et propose un service d’emailing.
+🛠️ PROPOSITION DE VALEUR UNIQUE
+
+
+Une solution clé en main. 
+Fluide lors du passage en caisse de vos clients. 
+Une gestion simplifiée de la carte de fidélité.
+Une analyse complète des données récoltée grâce à la carte de fidélité. 
+Une campagne de communication personnalisée en fonction de vos envies et de vos clients.
+Une plateforme qui vous permet d’accroître votre visibilité.
+🔑 AVANTAGE COMPÉTITIF NET
+
+
+Des données analytiques exploitées à son maximum pour permettre une campagne de communication personnalisée et adaptée selon les situations.
+🧑‍💻SEGMENTS DE CLIENTÈLE
+
+
+Une solution qui cible dans un premier temps les commerçants de proximité qui proposent déjà un programme de fidélisation avec des cartes de fidélité papier. Ces commerçants souhaitent dématérialiser leur carte de fidélité afin de mieux connaître leur clientèle pour pouvoir ou non effectuer des campagnes de communication adaptée.
+〽️  INDICATEURS CLÉS DE PERFORMANCE “KEY METRICS”
+
+
+Le nombre de commerçants partenaires
+L’évolution du nombre d’adhésion des commerçants à la solution
+Le nombre d’utilisateurs de l’application mobile
+🔊 CANAUX
+
+
+Prospection
+Réseaux
+Bouche à oreille
+💸 STRUCTURE DES COÛTS
+
+
+5 services qui possède chacun une base de données, qui représente 10 conteneurs qu’on doit instancier 3 fois (30 x 3€ soit 90€/mois)
+Le coût des outils interne (Jira, Notion, Postman, etc.)
+💰 SOURCES DE REVENUS
+
+
+Notre principale source de revenu va provenir de la cotisation payée par les commerçants pour bénéficier de nos services. Des forfaits que nous proposerons en fonction des options qu’ils souhaitent. 
+
+Le marché de FidelCly et son potentiel
+L’étude de marché
+
+L’offre
+
+60% des femmes ont plus de 10 cartes de fidélité dans leur portefeuille, ce qui peut engendrer un véritable casse-tête lors du passage en caisse, rallongeant le temps d'attente pour les autres clients. Il est également important de noter que seuls 8% des clients utilisent toutes leurs cartes de fidélité papier. Les raisons sont diverses : ils les ont oubliées à la maison, les ont perdues, ou n'ont tout simplement pas envie de les chercher. Cela représente un manque à gagner pour le commerçant qui a investi temps, argent et énergie pour mettre en place ce programme de fidélité. Par ailleurs, cela diminue le pouvoir d'achat des clients qui ont adhéré au programme de fidélité mais ne peuvent pas optimiser ses avantages.
+
+FidelCly a donc été conçu pour répondre aux besoins des commerçants de proximité qui privilégient souvent un système de fidélité basé sur des cartes à tampon. Notre idée est d'offrir une solution de gestion dématérialisée de la fidélisation qui facilite la vie des commerçants en simplifiant de nombreuses tâches, tout en rendant l'expérience de fidélisation plus simple et plus accessible pour l'utilisateur.
+
+Notre offre comprend une application web pour nos clients, les commerçants. Cette application leur offre un tableau de bord qui facilite la gestion de leur programme de fidélité, avec des fonctionnalités supplémentaires comme la consultation des profils de leurs clients, la gestion de leurs promotions visibles sur l'application mobile, et l'envoi automatisé de campagnes de communication.
+
+En parallèle, nous proposons une application mobile pour les clients de nos clients. Cette application, facile d'utilisation, permet la gestion de leurs cartes de fidélité, l'enregistrement des cartes favorites pour un accès rapide lors du passage en caisse, ainsi que la consultation des autres commerçants partenaires de FidelCly en fonction de la localisation de l'utilisateur.
+
+Les clients
+
+La cible
+FidelCly cible en premier lieu les commerçants qui ont actuellement un programme de fidélisation basé sur des cartes de fidélité en papier. Ces commerçants aspirent à dématérialiser leur programme de fidélité, libérant ainsi du temps et des ressources qu'ils peuvent consacrer à d'autres aspects de leur entreprise. En outre, ils souhaitent avoir un accès facile aux profils de leurs clients pour mieux comprendre leurs habitudes de consommation et affiner leurs offres de produits et services.
+Il est important de noter que cette cible couvre un large éventail de secteurs et de tailles d'entreprises - des petits commerces de quartier aux chaînes régionales. Que ce soit des magasins de détail, des restaurants, des coffee shops ou des salons de beauté, tous peuvent bénéficier des avantages offerts par FidelCly.
+Notre cible secondaire est constituée des utilisateurs, c'est-à-dire les clients de nos commerçants partenaires. Leur principal objectif est de centraliser toutes leurs cartes de fidélité en papier dans une seule application, mettant fin au problème de gestion d'une multitude de cartes de fidélité encombrantes dans leur portefeuille.
+Ces utilisateurs sont généralement des personnes technophiles, à l'aise avec les smartphones et les applications mobiles. Ils sont souvent des consommateurs réguliers chez les commerçants locaux et sont donc susceptibles de bénéficier de plusieurs programmes de fidélité. FidelCly offre une solution simple et pratique pour gérer et maximiser les avantages de ces programmes de fidélité.
+La segmentation des clients
+
+Persona utilisateur:
+
+
+Persona commerçant:
+
+
+Les concurrents
+Concurrent n°1 : FIDME https://www.fidme.com/
+L’application Fidme est certainement l’application la plus connue et la plus utilisée parmi nos concurrents. En effet, avec plus de 1 millions de téléchargements sur Play Store de Google et une note de 4,6 sur 67 000 avis, Fidme jouit d’une notoriété sans précédent. Toutefois elle cantonne son activité aux grandes enseignes telles que Carrefour, Ikea, Jules, Camaïeu, etc. C’est donc une solution qui se tourne essentiellement sur les utilisateurs et porteurs de carte de fidélité. 
+Nous nous démarquons de cette entreprise par le fait que nous ciblons les petits commerçants. L’idée semble similaire mais la cible n’est pas la même. On peut donc dire que nous sommes complémentaires. Fidme propose également comme fonctionnalités de conserver ses tickets de caisse, de mettre en avant des bons plans du moment que les entreprises proposent et un programme de fidélité propre à Fidme, “Happy Fids”. 
+
+Concurrent n°2 : QOODOS https://qoodos.fr/
+Qoodos est une entreprise française qui propose également de dématérialiser la fidélité. On dénombre uniquement 1000 téléchargements sur Google Store. Leur cible principale sont les petits commerçants proposant un programme de fidélité. 
+
+Une de leur principale fonctionnalité est celle d’envoi de messages automatiques aux clients du point de vente. En effet, Qoodos propose à ses clients la possibilité d’effectuer des campagnes de communication. 
+
+Une fonctionnalité que nous souhaitons également mettre en place avec des possibilités en plus, celle de pouvoir personnaliser ses propres templates selon ses envies et également effectuer des envois en fonction d’un ciblage très précis au moment voulu.
+
+
+
+
+Concurrent n°3 : YOLLTY https://fr.yollty.com/
+
+L’entreprise YOLLTY propose également comme solution de dématérialiser la carte de fidélité des entreprises locales. Sur le store environ 10 000 téléchargements ont été effectués.
+Leur principale fonctionnalité est certainement leur carte intéractive qui permet de référencer toutes les entreprises partenaires à leur solution. Nous pouvons facilement ajouter des cartes de fidélité dans son espace ce qui nous permet de connaître de nouvelles enseignes autour de ma position.
+
+C’est une fonctionnalité qui fait également partie des priorités de notre solution car c’est une force et un avantage pour le commerçant d’être référencé chez nous, cela lui apporte de la visibilité auprès de notre communauté, une vitrine supplémentaire. Ils auront également l’occasion de soigner leur page profil, leur mise en avant, leur fiche promotion, afin de se démarquer des autres enseignes, une fonctionnalité en plus que nous proposons par rapport à notre concurrent. 
+
+
+
+En résumé, pourquoi choisir FidelCly :
+
+
+
+FidelCly
+FIDME
+QOODOS
+YOLLTY
+Avantages supplémentaires
+✔
+✔
+❌
+❌
+Analyse statistique
+✔
+❌
+✔
+✔
+Emailing
+✔
+❌
+✔
+❌
+Map intéractive
+✔
+❌
+❌
+✔
+Listing des partenaires
+✔
+❌
+❌
+✔
+RGPD
+✔
+❌
+❌
+❌
+
+
+
+Le positionnement et le chiffre d’affaires
+
+Le positionnement
+
+FidelCly se distingue comme une plateforme numérique de fidélisation qui sert d'intermédiaire entre les commerçants de proximité et leurs clients. Notre première mission est d'améliorer l'expérience de fidélisation en transformant les cartes de fidélité traditionnelles en un format numérique, simplifiant ainsi leur gestion et utilisation.
+
+Du côté des commerçants, FidelCly représente une solution simplifiée et efficace pour orchestrer les programmes de fidélité de leurs clients. Grâce à notre système innovant de codes QR uniques, les commerçants peuvent facilement cumuler des points fidélité pour leurs clients à chaque achat, éliminant ainsi le risque de perte de cartes de fidélité physiques. De plus, FidelCly recueille des données de consommation précieuses, permettant aux commerçants d'ajuster leurs campagnes marketing et de mieux comprendre les comportements d'achat de leurs clients.
+
+Du côté des consommateurs, FidelCly leur offre une application mobile servant de portefeuille digital pour toutes leurs cartes de fidélité. Grâce à notre fonctionnalité de géolocalisation en temps réel, les utilisateurs peuvent aisément localiser les commerçants partenaires les plus proches. L'application intègre également un scanner pour ajouter de manière rapide et efficace de nouveaux commerçants à leur portefeuille numérique.
+
+Le positionnement de FidelCly met donc l'accent sur sa facilité d'utilisation, son efficacité dans la gestion des cartes de fidélité et sa capacité à fournir une expérience sur mesure pour les commerçants et leurs clients. FidelCly se dresse ainsi comme une solution complète pour la fidélisation, apportant des bénéfices tangibles à la fois pour les commerçants et pour les consommateurs.
+
+
+Le chiffre d’affaires et achat
+
+Le calcul du chiffre d’affaires
+
+FidelCly est une entreprise à but lucratif qui générera principalement ses revenus grâce aux abonnements proposés aux commerçants souhaitant adhérer à notre solution. Nous avons prévu trois forfaits d'abonnement offrant différentes options et fonctionnalités, ce qui se reflète dans le prix de chaque abonnement. Par cette approche, nous visons à répondre aux besoins spécifiques de chaque commerçant et à adapter nos tarifs en conséquence.
+
+En ce qui concerne les utilisateurs, c'est-à-dire les clients des commerçants, l'utilisation de l'application mobile sera entièrement gratuite. Notre objectif est de créer une vaste communauté d'utilisateurs afin de rendre notre application attractive pour de nouveaux prospects. En offrant gratuitement l'accès à notre application, nous souhaitons faciliter son adoption et encourager une participation active des clients dans notre écosystème de fidélisation.
+
+Concernant le choix du statut juridique, nous avons opté pour une SAS (Société par Actions Simplifiée). Ce statut offre une flexibilité et une adaptabilité importantes, ce qui nous permettra de mieux répondre aux besoins changeants du marché. La SAS offre également une grande liberté dans la rédaction des statuts et dans l'organisation interne de l'entreprise. Cette structure est attractive pour attirer des investisseurs et des partenaires commerciaux, ce qui est important pour notre croissance et notre développement futurs.
+
+
+
+Forfait
+TVA
+Prix de vente 2024
+Objectif de vente à fin 2024
+Chiffre d’affaires annuel prévisionnel 2024
+BASIC
+20%
+14,99€
+1200
+215 856€
+STANDARD
+20%
+39,99€
+500
+239 940€
+PREMIUM
+20%
+59,99€
+800
+575 904€
+
+
+Les achats initiaux
+
+Type
+Prix TTC
+Quantité
+Date d’achat prévisionnelle
+Hébergement
+SCALINGO
+
+
+Container
+201,60€/mois/container
+12
+01/2023
+Base de donnée
+14,40€/mois/bdd
+8
+01/2023
+Abonnements
+JIRA
+Gratuit < 10 utilisateur
+4
+01/2023
+Notion
+8$/mois/utilisateur
+4
+01/2023
+Github Teams
+4$/mois/utilisateur
+4
+01/2023
+FIGMA
+12€/mois/utilisateur
+4
+01/2023
+Google Workspace
+5,75€/mois/utilisateur
+4
+01/2023
+Salaires
+CEO
+55 000€ brut / an
+1
+01/2024
+CTO
+50 000€ brut / an
+1
+01/2024
+Développeur
+42 000€ brut / an
+2
+01/2024
+Avantages Entreprise
+Mutuelle
+Prise en charge à 60% de la cotisation
+4
+01/2024
+Ticket restaurant
+Prise en charge à 50% du ticket
+4
+01/2024
+Prime sur activité
+1% du CA à redistribuer
+4
+01/2024
+Enveloppe divers (Abonnement sports, loisirs culturels, etc.)
+500€ sous présentation de facture
+4
+01/2024
+Matériels
+Ordinateur
+2289€ l’unité
+4
+01/2024
+Pochette protection
+139,95€ l’unité
+4
+01/2024
+Clavier
+71$ l’unité
+4
+01/2024
+Souris
+129,99€ l’unité
+4
+01/2024
+Ecran
+399,99€ l’unité
+4
+01/2024
+Station d’accueil
+288,06€ l’unité
+4
+01/2024
+Local
+Loyer incubateur
+600€ / mois
+1
+01/2024
+
+
+Le dimensionnement du projet
+
+
+📝 Lien vers la Mindmap du projet
+
+
+Extrait tiré du Mindmap du projet : 
+
+
+
+Plan d’action
+Stratégies opérationnelles et process
+
+Production
+
+Quel type de projet?
+
+Notre projet va s’articuler autour de 2 applications front-end et 5 services.
+
+
+Comme vous pouvez le voir ci-dessus, notre schéma d’architecture s’articule autour de 5 services et 2 applications front-end. Chaque service possède sa propre base de données.
+Concernant notre stack technique, nous les avons choisis en fonction de leur performance et nos attentes.
+
+
+Les fonctionnalités principales
+
+
+Pouvoir enregistrer une carte de fidélité d’un commerçant dans ses favoris grâce à un système de QR code sur l’application mobile. 
+
+Cette fonctionnalité permet à l’utilisateur de pouvoir retrouver facilement et rapidement la carte de fidélité de son commerçant lors du passage en caisse. D’après un sondage, on a pu relever que 16% des personnes interrogées déclarent avoir perdu ou oublié leur carte et que d’autres sont tout simplement pressés par le temps et n’ont pas envie de la chercher. Nous répondons donc au problème par cette fonctionnalité en regroupant les cartes de fidélité de l’utilisateur sur une seule et même application.
+Consulter à partir de l’application mobile la liste des commerçants partenaires de FidelCly sur une map intéractive selon sa localisation.
+
+Depuis quelques années déjà, les français ont commencé à délaisser les grandes surfaces alimentaires au profit des commerçants de proximité. En effet, avec le petit commerçant du coin, un lien social peut s’installer, on peut facilement discuter, les produits sont gage de meilleure qualité, on a également ce sentiment d’être unique et privilégié. Mais on ne connaît pas tous les commerçants du coin …  C’est pourquoi nous avons eu l’idée de référencer tous nos commerçants partenaires sur une map interactive en fonction de la localisation de l’utilisateur afin qu’il puisse, au clic, découvrir le commerçant grâce à sa fiche profil.
+
+
+Consulter à partir de l’application mobile l’état de son solde selon la carte de fidélité de son commerçant. 
+
+Le pouvoir d’achat baisse, la hausse des prix des produits de grande consommation se fait ressentir, sur certains produits comme l’huile, une hausse de 37% entre août 2021 et avril 2022. Comment faire pour retrouver du pouvoir d’achat? Les promotions et remises en tout genre sont des bons leviers pour économiser quelques sous. C’est pourquoi il est important de ne pas perdre sa carte de fidélité et de connaître l’état de son solde afin de bénéficier de sa remise durement obtenue.
+
+Consulter à partir du dashboard client les données analytiques sur sa clientèle.
+
+
+
+Une des meilleures façons de fidéliser sa clientèle est de connaître sa clientèle. Il est inutile de vouloir fidéliser ses clients si on ne les connaît pas. Il s’avère donc important d’avoir une base de données avec des informations sur ses clients afin de leur proposer des offres qui correspondent à leurs besoins en étudiant leurs comportements d’achat. C’est pour cette raison que nous mettons à disposition pour nos commerçants un dashboard qui permet de consulter des données analytiques sur son point de vente et notamment sur sa clientèle (panier moyen, fréquence d’achat, habitudes de consommation, dernier passage, etc.).
+
+
+
+
+
+
+
+Gérer et envoyer des campagnes de communications à partir du dashboard client.
+
+
+
+Selon une étude, le client fidèle dépense 10 à 20% de plus qu’un client de passage. Le client fidèle qui est satisfait des produits et services du magasin va naturellement le recommander auprès de son entourage et sur les réseaux sociaux. Mais comment le fidéliser au point de le faire venir et revenir régulièrement? Comment le satisfaire? Des techniques de fidélisation comme lui faire vivre une expérience au top avec de la considération, de la personnalisation mais également une fluidité lors de son passage en magasin. Et aussi avec un programme de fidélité lui faisant bénéficier de réductions, des gains et des avantages. C’est pourquoi une de nos fonctionnalités principales est de proposer aux commerçants de les accompagner dans des campagnes de communication avec des envoi de mailings à leurs clients de façon ciblé et personnalisé. 
+
+
+Quel défi technique
+
+
+Le prototype
+
+L’application mobile
+
+📝 Lien vers une démo de l’application mobile (non finalisé)
+
+
+Le dashboard client
+
+📝 Lien vers le dashboard client
+
+email : frenchcut@gmail.com
+mot de passe : 12345678
+
+Le site vitrine
+
+📝 Lien vers la Landing Page
+
+
+
+Calendrier du projet sur 3 ans
+
+Roadmap externe
+📝 Lien vers la Roadmap externe
+
+Roadmap interne
+📝 Lien vers la Roadmap Interne
+
+
+
+Organisation de l’équipe
+
+Notre équipe
+
+Les profils nécessaires au projet
+
+📝 Lien vers le tableau de bord/ressources
+
+On constate d’après notre tableau de bord que divers profils sont nécessaires à la réalisation de notre projet. Des profils techniques, commerciaux mais également dans l’organisation ou le management. 
+
+Profil technique
+
+Nous recherchons principalement des développeurs fullstack pour jouer un rôle essentiel dans le développement de notre application mobile, notre dashboard client et notre landing page, qui seront les produits phares générant nos revenus. Nous considérons cette compétence comme fondamentale pour le bon fonctionnement de notre entreprise, d'autant plus que nous avons déjà des profils de ce type au sein de notre équipe. Notre objectif est de constituer une équipe idéale de 4 à 5 développeurs fullstack, chacun avec sa spécialisation soit dans le front-end, soit dans le back-end, afin d'assurer la continuité des projets en cas d'absences ou de congés tout au long de l'année.
+
+Si nécessaire, nous sommes ouverts à renforcer cette équipe avec des profils complémentaires, mais nous préférons ne pas externaliser cette compétence critique pour garder le contrôle sur le développement et la qualité de nos produits. Notre vision est de constituer une équipe collaborative et complémentaire, capable de relever les défis techniques et de garantir le succès de nos produits sur le marché. Nous croyons fermement que cette approche nous permettra d'atteindre nos objectifs et de maintenir un niveau élevé de satisfaction client.
+
+Nous recherchons également un profil de DevOps au sein de notre équipe. Le rôle de DevOps est devenu essentiel dans les équipes de développement logiciel modernes. Ce professionnel a pour mission de combler le fossé entre les équipes de développement (Dev) et les équipes opérationnelles (Ops). Son objectif principal est de créer un environnement de travail collaboratif et automatisé pour faciliter des déploiements plus rapides, plus fréquents et plus efficaces d'applications logicielles.
+
+Chez FidelCly, le poste de DevOps ne sera pas distinct à part entière, car notre hébergeur, Scalingo, gère déjà une grande partie des responsabilités liées au DevOps. Cependant, nous recherchons un profil de DevOps qui possède également des compétences de développement, afin de compléter notre équipe de manière polyvalente. Cette combinaison de compétences nous permettra de collaborer étroitement avec notre hébergeur et de maintenir un flux de travail optimisé, tout en adaptant les solutions DevOps à nos besoins spécifiques.
+
+En intégrant ce profil hybride de DevOps et de développeur dans notre équipe, nous visons à renforcer notre efficacité dans le processus de développement, tout en optimisant la gestion de l'infrastructure et des opérations. Cela nous permettra de nous concentrer davantage sur la création de produits innovants, tout en bénéficiant des meilleures pratiques DevOps mises en place par notre hébergeur.
+ 
+En plus du profil DevOps, nous souhaitons renforcer l’équipe avec un profil DevSecOps afin de  renforcer la sécurité de notre infrastructure et de nos applications tout au long du cycle de développement. Le DevSecOps est un rôle qui intègre les pratiques de sécurité dans les processus de développement et d'exploitation. En collaborant étroitement avec les développeurs et les opérationnels, le DevSecOps s'assure que les bonnes pratiques de sécurité sont mises en place dès le début du développement, plutôt que d'être ajoutées en dernier recours. Ce rôle stratégique de DevSecOps sera pris en charge par notre CTO (Chief Technology Officer).
+
+Un autre profil technique souhaité dans l'équipe est un UX/UI Designer, afin de nous aider dans la conception et l'amélioration de l'expérience utilisateur de nos produits. Le rôle de l'UX/UI Designer est essentiel pour créer des interfaces utilisateur intuitives, esthétiques et conviviales. Ils se concentrent sur les aspects de l'expérience utilisateur (UX) en comprenant les besoins et les attentes des utilisateurs, ainsi que sur l'interface utilisateur (UI) en concevant des éléments visuels attrayants et fonctionnels. L'intégration d'un UX/UI Designer dans notre équipe garantira que nos produits sont ergonomiques, attrayants et répondent aux besoins de nos utilisateurs. Une expérience utilisateur bien conçue est un facteur clé pour fidéliser les clients, accroître l'adoption de nos produits et stimuler la croissance de notre entreprise.
+
+Nous souhaitons préciser que notre objectif est d'internaliser ces compétences au sein de notre équipe. Nous ne souhaitons pas externaliser les profils de DevOps, DevSecOps et UX/UI Designer, car nous considérons que ces compétences sont d'une importance cruciale pour le succès de notre entreprise et de nos produits.
+
+En internalisant ces compétences, nous voulons créer une équipe solide et collaborative, où chaque membre apporte sa contribution unique et complémentaire au développement, à la sécurité et à l'expérience utilisateur de nos produits. Avoir ces experts au sein de notre équipe nous permettra de garder le contrôle total sur les processus de développement, de sécurisation et de conception de nos applications, tout en garantissant une intégration fluide entre les différentes étapes du cycle de développement. 
+
+Profil commercial
+
+Nous sommes également à la recherche d'un responsable marketing et communication, un rôle qui pourrait être assuré par le CEO (Chief Executive Officer).
+
+Le responsable marketing et communication aura la charge de développer et de mettre en œuvre la stratégie marketing globale de l'entreprise. En étroite collaboration avec le CEO, cette personne sera responsable de l'élaboration de plans marketing efficaces, de la promotion de nos produits et services, et de la gestion de la communication externe de l'entreprise. En confiant ce rôle au CEO, nous souhaitons nous assurer que la stratégie marketing et communication est étroitement alignée avec la vision globale de l'entreprise. Le CEO jouera un rôle actif dans le développement de la marque, des relations avec les clients et dans la promotion de nos produits sur le marché. Cette approche nous permettra de maintenir une cohérence stratégique à tous les niveaux de l'entreprise, tout en mettant l'accent sur la croissance et le succès de notre entreprise.
+
+Pour renforcer notre démarchage terrain et promouvoir notre produit auprès des commerçants de proximité, nous cherchons également à recruter un commercial terrain.
+Le commercial terrain jouera un rôle clé dans l'expansion de notre clientèle et dans l'augmentation de notre base de commerçants partenaires. Le recrutement d'un commercial terrain nous permettra d'étendre notre présence sur le marché local, de renforcer notre réseau de commerçants partenaires et de stimuler la croissance de notre entreprise. Nous recherchons une personne dynamique, dotée d'excellentes compétences en communication et de fortes capacités de persuasion pour relever ce défi commercial avec succès.
+
+Profil agile
+
+Un profil Scrum Master serait idéal pour l'équipe, et ce rôle sera assuré par l'un de nos développeurs.
+
+Le Scrum Master est un membre essentiel de l'équipe de développement, dont la principale responsabilité est de faciliter l'application des principes et pratiques de la méthodologie Agile, en particulier du framework Scrum. Ils agissent comme un coach pour l'équipe, les aidant à adopter les meilleures pratiques Scrum, à maintenir leur productivité et à s'assurer que les objectifs du sprint sont atteints. En assignant ce rôle de Scrum Master à l'un de nos développeurs, nous valorisons le partage des compétences et des responsabilités au sein de l'équipe. Cela renforce également la compréhension et l'adhésion à la méthodologie Agile, favorisant ainsi une collaboration harmonieuse et efficace au sein du groupe. Le Scrum Master jouera un rôle clé pour assurer la livraison réussie des projets dans les délais et en maintenant un haut niveau de qualité dans notre processus de développement.
+Les compétences nécessaires au projet
+
+Compétences techniques : 
+Compétences en développement web front-end (HTML, CSS, JavaScript, frameworks comme React ou React Native) et back-end (Node.js).
+Connaissance des outils et pratiques d'automatisation, de gestion des infrastructures et de déploiement continu pour améliorer l'efficacité du développement et des opérations.
+Capacité à intégrer les meilleures pratiques de sécurité dans le développement et les opérations, en garantissant que la sécurité est prise en compte dès le début du processus.
+Compétences en conception d'interfaces utilisateur intuitives, esthétiques et conviviales pour offrir une expérience utilisateur exceptionnelle.
+
+Compétences commerciales : 
+Expertise en stratégie marketing, gestion de campagnes promotionnelles, communication externe et développement de la marque.
+Compétences en prospection, négociation et développement de clientèle pour atteindre les objectifs commerciaux et élargir la base de clients.
+
+Compétences agiles : 
+Capacité à faciliter et à coacher l'équipe dans l'application des principes Agile et à maintenir la transparence et l'efficacité du processus de développement.
+
+Autres compétences : 
+Fortes compétences en communication, en travail d'équipe et en collaboration pour favoriser une atmosphère de travail harmonieuse et productive.
+Capacité à analyser les défis techniques et commerciaux, à prendre des décisions éclairées et à trouver des solutions efficaces.
+
+Les processus de management
+
+Les processus de management
+
+
+📝 Lien vers la cartographie des processus
+
+
+
+Le suivi de projet
+
+En ce qui concerne notre gestion de projet, nous attachons une grande importance au suivi des avancées et des ralentissements. Pour cela, nous utilisons une approche agile, qui nous permet d'ajuster rapidement notre plan en fonction des évolutions et des besoins du projet.
+
+Nous utilisons des méthodes telles que Scrum, qui nous permettent de diviser notre projet en itérations, appelées "sprints". Chaque sprint dure trois semaines. Au début de chaque sprint, nous définissons des objectifs SMART spécifiques, mesurables, atteignables, réalistes et temporellement définis. Ces objectifs sont basés sur notre roadmap globale et les exigences du produit.
+
+Pendant chaque sprint, nous tenons des réunions régulières, une fois par semaine, appelée Weekly Hebdo, où l'équipe se réunit pour partager l'état de progression de chacun, discuter des défis éventuels et identifier les moyens de les surmonter. Ces réunions de 15mn nous permettent de rester synchronisés et de prendre des décisions rapidement. Un compte-rendu est disponible après chaque séance. Liens vers Notions Weekly Hebdo.
+
+En outre, nous effectuons des revues à la fin de chaque sprint pour évaluer les résultats obtenus par rapport aux objectifs définis. Cela nous permet de mesurer notre progression et de déterminer si nous sommes sur la bonne voie pour atteindre nos objectifs.
+
+En ce qui concerne la roadmap, nous la réévaluons et la mettons à jour régulièrement en fonction des feedbacks des utilisateurs, des tendances du marché et des nouvelles opportunités. Nous organisons des réunions de planification pour définir les prochaines étapes du projet et ajuster la roadmap en fonction des priorités et des contraintes du moment.
+
+En résumé, notre approche agile nous permet de suivre nos avancées de manière itérative et de manière continue. Nous effectuons des revues et des ajustements fréquents pour nous assurer que nous restons alignés sur nos objectifs SMART et que notre roadmap reste pertinente et en phase avec les évolutions du projet et des besoins de nos utilisateurs.
+
+
+Les méthodes de priorisation
+
+La méthode LBC
+
+📝 Lien vers la méthode LBC
+
+L'idée centrale derrière la "méthode de la bonne chose" serait donc de se concentrer sur les activités ou projets clés qui ont un impact significatif sur la réussite globale du projet et de les gérer de manière prioritaire.
+
+Il s’agit d’identifier les users stories et de répondre aux questions “Quoi? Pourquoi? Comment?” pour chaque sujet. Prenons exemple avec une user story pour notre projet FidelCly, présent dans notre LBC, la numéro 21 : Homepage public qui présente le produit. Nous avons dû répondre aux questions suivantes :
+Quoi ? 
+Présenter de manière convaincante et efficace le produit FidelCly à un public large. Il s'agit de démontrer la valeur du produit, d'expliquer comment il fonctionne et pourquoi il est bénéfique pour les commerçants et les consommateurs.
+Pourquoi ?
+L'objectif principal de la homepage publique qui présente le produit est de convaincre et d'informer efficacement un large public sur les avantages et la valeur de FidelCly. En présentant le produit de manière attrayante et informative, FidelCly vise à susciter l'intérêt des visiteurs potentiels et à les encourager à devenir des utilisateurs. La description claire de ce qu'est FidelCly, les démonstrations visuelles de son fonctionnement et les témoignages de clients satisfaits contribuent à établir la crédibilité du produit et à rassurer les visiteurs sur ses avantages réels. En expliquant clairement comment FidelCly peut bénéficier aux commerçants et aux consommateurs, cette présentation aide à créer une compréhension positive de l'application et incite davantage de personnes à l'adopter. En somme, cette homepage publique joue un rôle crucial dans la promotion et l'adoption de FidelCly en captant l'attention du public et en lui fournissant des informations convaincantes sur les avantages et l'utilité du produit.
+Comment ?
+FidelCly propose une solution où la page d'accueil du site public présente de manière attrayante et informative le produit. Elle comprendrait une description claire de ce qu'est FidelCly, des démonstrations visuelles de la façon dont il fonctionne, des témoignages de commerçants et de consommateurs satisfaits, et des explications sur les bénéfices de l'utilisation de FidelCly. Cela donnerait aux visiteurs une compréhension claire et positive de FidelCly, augmentant ainsi les chances qu'ils deviennent des utilisateurs.
+
+Nous devions ensuite donner évaluer cette US en fonction de plusieurs critères : 
+Impact d’usage
+Impact business
+Effort d’implémentation
+Temps nécessaire à la réalisation
+Ce qui nous donnera une note de priorisation. 
+
+Compte-rendu de réunion
+
+📝 Lien vers le compte-rendu d’une réunion
+
+Pour qu'une réunion soit productive et efficace, il est essentiel de la préparer en amont en définissant clairement les objectifs et en rassemblant les documents ou informations pertinents à partager. De plus, il est crucial d'établir une ligne directrice ou un ordre du jour précis, afin de garder le focus sur les sujets principaux et éviter de déborder sur des discussions non essentielles. En veillant à ce que tous les participants soient au courant de l'ordre du jour à l'avance, chacun pourra se préparer adéquatement et contribuer de manière ciblée aux discussions. Enfin, il est également important de désigner un animateur ou un facilitateur de réunion chargé de maintenir le cap et d'encourager une participation équilibrée de tous les membres présents. Il est également important de désigner une personne chargée de prendre les notes afin de garder une trace écrite de tout ce qui est mentionné. En respectant ces bonnes pratiques de préparation et de suivi, les réunions peuvent devenir des moments de travail productifs, favorisant la collaboration et l'atteinte des objectifs fixés.
+
+Voici un exemple d’une de nos réunions dont le sujet principal est le choix de la librairie pour le mailing, une fonctionnalité importante pour notre application.
+
+
+
+ 
+La gestion des incidents
+
+Durant l'évolution de notre projet FidelCly, nous avons rencontré plusieurs incidents qui ont non seulement ralenti sa progression, mais aussi perturbé son déroulement harmonieux. Ces incidents provenaient de divers domaines : certains étaient liés aux ressources humaines, d'autres à l'organisation du projet, et d'autres encore étaient d'ordre technique. La gravité de ces problèmes variait également, certains ayant un impact mineur sur le projet, tandis que d'autres étaient d'une criticité élevée. Pour gérer ces incidents, nous avons mis en place un tableau de gestion des incidents. Cet outil nous a permis de suivre et de traiter chaque problème de manière systématique et efficace. Voici un aperçu de ce tableau :
+
+📝 Lien vers le tableau de gestion des incidents
+
+
+
+
+Bilan
+
+FidelCly s'est forgé une vision claire et audacieuse : construire un futur où la fidélisation client est sans effort, entièrement numérisée, au service des commerçants locaux et respectueuse de l'environnement. C'est en simplifiant et en rendant digitale cette expérience de fidélisation que nous comptons apporter un changement majeur au secteur. Nous voulons créer un monde où les commerces de proximité prospèrent, où chaque achat est une contribution active à la préservation de notre planète et une expérience enrichissante pour le consommateur.
+
+Actuellement, les consommateurs se voient proposer une multitude de cartes de fidélité. Gérer ces cartes peut vite devenir un défi et entraver l'expérience de fidélité. Pour les commerçants de proximité, la mise en place et la gestion d'un programme de fidélité efficace peuvent s'avérer coûteux et complexes. FidelCly vise à résoudre ces problèmes en offrant une plateforme simple et intuitive qui simplifie le processus de fidélisation.
+
+Le marché du commerce de proximité est en plein essor. Parallèlement, la digitalisation des services et des processus a transformé nos habitudes de consommation. Ces deux tendances représentent une opportunité commerciale majeure pour FidelCly. Avec un marché de la fidélisation qui devrait atteindre 4,5 milliards de dollars d'ici 2025, nous avons l'opportunité de nous positionner comme un acteur de premier plan dans ce domaine en constante évolution.
+Pour résoudre le problème de la gestion des cartes de fidélité, nous avons développé une application mobile pour les consommateurs et un dashboard pour les commerçants. L'application mobile FidelCly permet aux utilisateurs de centraliser toutes leurs cartes de fidélité et de localiser les commerces partenaires à proximité. Pour les commerçants, notre dashboard offre un accès facile à des données clients précieuses et la possibilité de gérer efficacement leur programme de fidélité.
+
+Nos principaux concurrents sur le marché sont FIDME, QOODOS et YOLLTY. Chacun de ces acteurs propose des solutions pour digitaliser les programmes de fidélité. Cependant, FidelCly se distingue par son accent mis sur les commerçants de proximité et sa volonté d'offrir une solution tout-en-un qui répond aux besoins des commerçants et des consommateurs. Contrairement à FIDME qui cible principalement les grandes enseignes, FidelCly se concentre sur les petits commerces locaux, offrant ainsi une solution plus adaptée à leurs besoins spécifiques.
+
+Pour atteindre notre public cible, nous avons élaboré une stratégie de marketing et de vente axée sur la proposition de valeur unique de FidelCly. Notre modèle d'affaires repose sur un système d'abonnement pour les commerçants, avec trois forfaits proposant différentes options et fonctionnalités. Nous avons également pris la décision stratégique de rendre l'application gratuite pour les utilisateurs, ce qui favorise une large adoption et encourage l'engagement actif des clients.
+
+L'équipe derrière FidelCly est notre plus grand atout. Nos membres ont des backgrounds divers et variés, allant du marketing à la cybersécurité, en passant par la business intelligence. Cette diversité nous donne une perspective unique et une capacité à comprendre les différentes facettes de notre entreprise.
+
+En termes de projections financières, nous anticipons un chiffre d'affaires annuel prévisionnel de 1,031 million d'euros en 2024, basé sur la vente de nos différents abonnements. Nous prévoyons une croissance constante au cours des trois prochaines années, avec une augmentation de notre base de clients commerçants et une adoption croissante de notre application par les consommateurs.
+
+Finalement, FidelCly ne se contente pas de proposer un produit ou un service. Nous proposons une vision, une nouvelle façon de faire les choses, qui, nous en sommes convaincus, aura un impact majeur sur le commerce de proximité et l'expérience de consommation. Notre ambition est de transformer la fidélisation, d'offrir aux commerçants les outils dont ils ont besoin pour prospérer, et aux consommateurs la possibilité de participer activement à cette transformation tout en bénéficiant d'une expérience de fidélité sans effort et gratifiante.
